@@ -1,0 +1,1 @@
+## Prompt to Result no need of Sql QUERY
