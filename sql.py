@@ -32,6 +32,8 @@ data = cursor.execute('''Select * from STUDENT''')
 for row in data:
     print(row)
 
+
+
 ##commmit changes
 connection.commit()
 connection.close
